@@ -1,0 +1,1811 @@
+[
+  {
+    "id": 183,
+    "business_n": "390005026708",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u211640817810601007030986",
+    "overdue_debt": 52105.1,
+    "overdue_debt_date": "2014-03-31 00:00:00",
+    "fio": "\u0411\u0440\u0430\u0433\u0438\u043d \u0418\u043e\u0441\u0438\u0444 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-10-31 00:00:00",
+    "credit_amount": 22000,
+    "srochssudzd": "0",
+    "prsrssudzd": "21922.22",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 221,
+    "business_n": "150025104445",
+    "business_n_monetary_oblig": "39663\/14-21\/\u0424\u041f\u041a",
+    "overdue_debt": 1553843.71,
+    "overdue_debt_date": "2014-04-25 00:00:00",
+    "fio": "\u0413\u043e\u043b\u0443\u0431\u0435\u0432 \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-04-04 00:00:00",
+    "credit_amount": 600000,
+    "srochssudzd": "0",
+    "prsrssudzd": "600000",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 135,
+    "business_n": "150020059290",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u211640817810801007029470",
+    "overdue_debt": 27971.3,
+    "overdue_debt_date": "2014-09-01 00:00:00",
+    "fio": "\u041f\u043e\u043b\u044f\u043a\u043e\u0432 \u0410\u0440\u0442\u0435\u043c\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-03-22 00:00:00",
+    "credit_amount": 13000,
+    "srochssudzd": "0",
+    "prsrssudzd": "12945.37",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 115,
+    "business_n": "150020052103",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810301007029488",
+    "overdue_debt": 30060.41,
+    "overdue_debt_date": "2014-09-01 00:00:00",
+    "fio": "\u041c\u0438\u0448\u0438\u043d \u0412\u0430\u043b\u0435\u0440\u0438\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-02-20 00:00:00",
+    "credit_amount": 14000,
+    "srochssudzd": "0",
+    "prsrssudzd": "13916.19",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 159,
+    "business_n": "150025079771",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u211640817810801007030155",
+    "overdue_debt": 27959.87,
+    "overdue_debt_date": "2014-09-05 00:00:00",
+    "fio": "\u042e\u0434\u0438\u043d \u042e\u043b\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-06-20 00:00:00",
+    "credit_amount": 13000,
+    "srochssudzd": "0",
+    "prsrssudzd": "13000",
+    "status_types": [
+      "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435",
+      "360+",
+      "\u041e\u0442\u043a\u0430\u0437 \u043f\u043b\u0430\u0442\u0438\u0442\u044c",
+      "\u041e\u0431\u0435\u0449\u0430\u043d\u0438\u0435 \u043e\u043f\u043b\u0430\u0442\u044b"
+    ],
+    "applied_bp": [
+      "Hard"
+    ]
+  },
+  {
+    "id": 170,
+    "business_n": "390005014313",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810901007029817",
+    "overdue_debt": 15375.99,
+    "overdue_debt_date": "2014-10-30 00:00:00",
+    "fio": "\u041c\u043e\u0440\u043e\u0437\u043e\u0432 \u0414\u0430\u043d\u0438\u043b\u0430 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-09-09 00:00:00",
+    "credit_amount": 11000,
+    "srochssudzd": "0",
+    "prsrssudzd": "3849.31",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 206,
+    "business_n": "150025097249",
+    "business_n_monetary_oblig": "32584\/14-7\/\u0424\u041f\u041a",
+    "overdue_debt": 1519599.95,
+    "overdue_debt_date": "2014-11-05 00:00:00",
+    "fio": "\u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432 \u0410\u043d\u0430\u043d\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-03-04 00:00:00",
+    "credit_amount": 700000,
+    "srochssudzd": "0",
+    "prsrssudzd": "656507.78",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 220,
+    "business_n": "150025104236",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421  \u211640817810101007031391",
+    "overdue_debt": 30807.88,
+    "overdue_debt_date": "2015-01-30 00:00:00",
+    "fio": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432 \u0410\u0440\u0442\u0435\u043c\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-04-03 00:00:00",
+    "credit_amount": 16000,
+    "srochssudzd": "0",
+    "prsrssudzd": "15998.72",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 139,
+    "business_n": "150020068847",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u211640817810102007016674",
+    "overdue_debt": 27999.05,
+    "overdue_debt_date": "2015-01-30 00:00:00",
+    "fio": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432 \u041d\u0435\u0441\u0442\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-04-30 00:00:00",
+    "credit_amount": 15000,
+    "srochssudzd": "0",
+    "prsrssudzd": "14655.9",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 201,
+    "business_n": "150025093810",
+    "business_n_monetary_oblig": "16674\/14-2\/\u0424\u041f\u041a",
+    "overdue_debt": 53220.88,
+    "overdue_debt_date": "2015-02-24 00:00:00",
+    "fio": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432 \u041d\u0435\u0441\u0442\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-02-19 00:00:00",
+    "credit_amount": 50000,
+    "srochssudzd": "0",
+    "prsrssudzd": "28394.16",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 260,
+    "business_n": "150025124557",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810901007031588",
+    "overdue_debt": 13161.08,
+    "overdue_debt_date": "2015-03-02 00:00:00",
+    "fio": "\u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432 \u0420\u043e\u0441\u0442\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-06-27 00:00:00",
+    "credit_amount": 7000,
+    "srochssudzd": "0",
+    "prsrssudzd": "6997.08",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 244,
+    "business_n": "150025119232",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u211640817810501007031991",
+    "overdue_debt": 42287.95,
+    "overdue_debt_date": "2015-03-30 00:00:00",
+    "fio": "\u0426\u0432\u0435\u0442\u043a\u043e\u0432 \u041d\u0438\u043a\u043e\u0434\u0438\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-06-04 00:00:00",
+    "credit_amount": 23000,
+    "srochssudzd": "0",
+    "prsrssudzd": "23000",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 284,
+    "business_n": "290000002676",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810901007032671",
+    "overdue_debt": 15452.59,
+    "overdue_debt_date": "2015-03-30 00:00:00",
+    "fio": "\u0411\u043b\u0438\u043d\u043e\u0432 \u0410\u043d\u0442\u043e\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-08-18 00:00:00",
+    "credit_amount": 10000,
+    "srochssudzd": "0",
+    "prsrssudzd": "9963.66",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 126,
+    "business_n": "150020052516",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810201007029520",
+    "overdue_debt": 22553.56,
+    "overdue_debt_date": "2015-06-30 00:00:00",
+    "fio": "\u041e\u0440\u0435\u0445\u043e\u0432 \u0420\u0443\u0441\u043b\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-02-22 00:00:00",
+    "credit_amount": 11900,
+    "srochssudzd": "0",
+    "prsrssudzd": "11900",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 131,
+    "business_n": "150020053124",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810801007029412",
+    "overdue_debt": 21133.98,
+    "overdue_debt_date": "2015-08-31 00:00:00",
+    "fio": "\u0415\u0432\u0441\u0435\u0435\u0432 \u0424\u0435\u043b\u0438\u043a\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-02-26 00:00:00",
+    "credit_amount": 12000,
+    "srochssudzd": "0",
+    "prsrssudzd": "11980.62",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 209,
+    "business_n": "150025099240",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810701007031568",
+    "overdue_debt": 12525.04,
+    "overdue_debt_date": "2015-09-30 00:00:00",
+    "fio": "\u0421\u044b\u0441\u043e\u0435\u0432 \u0412\u0438\u0442\u043e\u043b\u044c\u0434 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-03-13 00:00:00",
+    "credit_amount": 8000,
+    "srochssudzd": "0",
+    "prsrssudzd": "7966.62",
+    "status_types": [
+      "360+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 294,
+    "business_n": "290000005911",
+    "business_n_monetary_oblig": "76637\/14-57\/\u0424\u041f\u041a",
+    "overdue_debt": 724806.5,
+    "overdue_debt_date": "2015-12-01 00:00:00",
+    "fio": "\u041a\u043e\u0441\u0442\u0438\u043d \u0413\u0430\u0432\u0440\u0438\u0438\u043b ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-08-29 00:00:00",
+    "credit_amount": 700000,
+    "srochssudzd": "0",
+    "prsrssudzd": "587458.94",
+    "status_types": [
+      "180+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 204,
+    "business_n": "150025096197",
+    "business_n_monetary_oblig": "32530\/14-5\/\u0424\u041f\u041a",
+    "overdue_debt": 497869.01,
+    "overdue_debt_date": "2015-12-24 00:00:00",
+    "fio": "\u0414\u044c\u044f\u0447\u043a\u043e\u0432 \u0414\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-02-28 00:00:00",
+    "credit_amount": 500000,
+    "srochssudzd": "0",
+    "prsrssudzd": "379316.4",
+    "status_types": [
+      "180+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 133,
+    "business_n": "150020056065",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810501007029547",
+    "overdue_debt": 26564.21,
+    "overdue_debt_date": "2016-02-29 00:00:00",
+    "fio": "\u0417\u0438\u043c\u0438\u043d \u0413\u0430\u0432\u0440\u0438\u0438\u043b ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-03-12 00:00:00",
+    "credit_amount": 19000,
+    "srochssudzd": "0",
+    "prsrssudzd": "18681.43",
+    "status_types": [
+      "180+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 427,
+    "business_n": "100005131633",
+    "business_n_monetary_oblig": "1124\/16-20\/\u0424\u041f\u041a",
+    "overdue_debt": 2992.97,
+    "overdue_debt_date": "2016-07-11 00:00:00",
+    "fio": "\u0421\u0435\u043b\u0438\u0432\u0435\u0440\u0441\u0442\u043e\u0432 \u0412\u0438\u043a\u0442\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-04 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "22378.64",
+    "prsrssudzd": "2314.47",
+    "status_types": [
+      "60+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 231,
+    "business_n": "150025113172",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810701007027019",
+    "overdue_debt": 20859.07,
+    "overdue_debt_date": "2016-08-30 00:00:00",
+    "fio": "\u041a\u043e\u043d\u043e\u0432\u0430\u043b\u043e\u0432 \u0414\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-05-13 00:00:00",
+    "credit_amount": 20000,
+    "srochssudzd": "0",
+    "prsrssudzd": "19999.67",
+    "status_types": [
+      "1+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 490,
+    "business_n": "150040214512",
+    "business_n_monetary_oblig": "7585\/16-55\/\u0424\u041f\u041a",
+    "overdue_debt": 40.36,
+    "overdue_debt_date": "2016-09-16 00:00:00",
+    "fio": "\u0413\u043e\u0440\u0434\u0435\u0435\u0432 \u0422\u0438\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-25 00:00:00",
+    "credit_amount": 50000,
+    "srochssudzd": "47040.29",
+    "prsrssudzd": "34.93",
+    "status_types": [
+      "1+"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 888,
+    "business_n": "100005076857",
+    "business_n_monetary_oblig": "40817810701007018921",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432 \u0413\u0435\u0440\u043c\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 293,
+    "business_n": "290000005562",
+    "business_n_monetary_oblig": "3276\/14-56\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u0435\u0441\u0435\u043b\u043e\u0432 \u0411\u043e\u0440\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-08-28 00:00:00",
+    "credit_amount": 410000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 346,
+    "business_n": "150030188018",
+    "business_n_monetary_oblig": "026013\/15-05\/\u0424\u041a\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u043e\u0438\u0441\u0435\u0435\u0432 \u0413\u043e\u0440\u0434\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2015-04-07 00:00:00",
+    "credit_amount": 90000,
+    "srochssudzd": "79195.76",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1095,
+    "business_n": "100005121517",
+    "business_n_monetary_oblig": "40817810701007040737",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0410\u0433\u0430\u0444\u043e\u043d\u043e\u0432 \u0424\u0435\u043b\u0438\u043a\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-04 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 882,
+    "business_n": "100005076724",
+    "business_n_monetary_oblig": "40817810501007026210",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u044f\u043a\u043e\u0432 \u0421\u0430\u0432\u0432\u0430 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2015-12-31 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 424,
+    "business_n": "100005131133",
+    "business_n_monetary_oblig": "7307\/16-18\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0435\u043b\u0435\u0437\u043d\u0451\u0432 \u0410\u043d\u0442\u043e\u043d\u0438\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-29 00:00:00",
+    "credit_amount": 130000,
+    "srochssudzd": "119226.27",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1042,
+    "business_n": "100005105847",
+    "business_n_monetary_oblig": "40817810501007038457",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u0443\u0445\u0438\u043d \u0414\u043e\u0431\u0440\u044b\u043d\u044f ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-03-09 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1149,
+    "business_n": "100005130420",
+    "business_n_monetary_oblig": "40817810101007039474",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0413\u0443\u0441\u0435\u0432 \u0414\u043c\u0438\u0442\u0440\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-27 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 983,
+    "business_n": "100005083066",
+    "business_n_monetary_oblig": "40817810201007038485",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432 \u042d\u0440\u0438\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-22 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 141,
+    "business_n": "150020068849",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810401007030458",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0418\u043b\u044c\u0438\u043d \u0414\u043e\u043d\u0430\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-04-30 00:00:00",
+    "credit_amount": 45500,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 584,
+    "business_n": "150040220537",
+    "business_n_monetary_oblig": "40817810401007039637",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432 \u041e\u043b\u0435\u0433 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-22 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1329,
+    "business_n": "150040242406",
+    "business_n_monetary_oblig": "9021\/16-345\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0418\u0432\u0430\u043d\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-20 00:00:00",
+    "credit_amount": 50000,
+    "srochssudzd": "50000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 666,
+    "business_n": "150040226800",
+    "business_n_monetary_oblig": "8352\/16-127\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0430\u043c\u0441\u043e\u043d\u043e\u0432 \u041f\u0430\u0432\u0435\u043b ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-07-15 00:00:00",
+    "credit_amount": 500000,
+    "srochssudzd": "491270.66",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 511,
+    "business_n": "150040215327",
+    "business_n_monetary_oblig": "7659\/16-65\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u042e\u0434\u0438\u043d \u042e\u043b\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-30 00:00:00",
+    "credit_amount": 150000,
+    "srochssudzd": "133973.67",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1273,
+    "business_n": "150040240375",
+    "business_n_monetary_oblig": "9085\/16-304\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u0440\u044e\u043a\u043e\u0432 \u041d\u0438\u043a\u0438\u0442\u0430 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-13 00:00:00",
+    "credit_amount": 140000,
+    "srochssudzd": "140000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u0412 \u0441\u0443\u0434",
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1159,
+    "business_n": "100005132541",
+    "business_n_monetary_oblig": "40817810501007026511",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 \u041c\u0430\u0440\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-10 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1290,
+    "business_n": "150040241072",
+    "business_n_monetary_oblig": "9156\/16-321\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0420\u043e\u0433\u043e\u0432 \u0410\u043d\u0430\u043d\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-14 00:00:00",
+    "credit_amount": 50000,
+    "srochssudzd": "50000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 710,
+    "business_n": "150040229524",
+    "business_n_monetary_oblig": "40820978301007035291",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u043e\u0431\u0440\u043e\u0432 \u0420\u0430\u0444\u0430\u0438\u043b ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-07-28 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "510.55",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1366,
+    "business_n": "150040243707",
+    "business_n_monetary_oblig": "9312\/16-373\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u0438\u0448\u043d\u044f\u043a\u043e\u0432 \u0412\u0430\u043b\u0435\u0440\u0438\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-23 00:00:00",
+    "credit_amount": 72000,
+    "srochssudzd": "72000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1354,
+    "business_n": "150040243096",
+    "business_n_monetary_oblig": "40817810201007029591",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0415\u0440\u0448\u043e\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-22 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "100.49",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 329,
+    "business_n": "150010002799",
+    "business_n_monetary_oblig": "423-01-11067\/\u0424\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u0438\u0440\u043e\u043d\u043e\u0432 \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2012-06-22 00:00:00",
+    "credit_amount": 17704000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438",
+      "VIP"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1297,
+    "business_n": "150040241414",
+    "business_n_monetary_oblig": "9181\/16-325\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u044f\u043a\u043e\u0432 \u041a\u0438\u0440\u0438\u043b\u043b ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-15 00:00:00",
+    "credit_amount": 80000,
+    "srochssudzd": "80000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 228,
+    "business_n": "150025109847",
+    "business_n_monetary_oblig": "31208\/14-28\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432 \u0410\u043a\u0438\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-04-28 00:00:00",
+    "credit_amount": 300000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 301,
+    "business_n": "100000003416",
+    "business_n_monetary_oblig": "3276\/14-62\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u0435\u0441\u0435\u043b\u043e\u0432 \u0411\u043e\u0440\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-09-15 00:00:00",
+    "credit_amount": 250000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 555,
+    "business_n": "150040218377",
+    "business_n_monetary_oblig": "042593\/16-017\/\u0424\u041a\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u044f\u043a\u043e\u0432 \u0420\u043e\u0434\u0438\u043e\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-14 00:00:00",
+    "credit_amount": 70000,
+    "srochssudzd": "25985.78",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1102,
+    "business_n": "100005122961",
+    "business_n_monetary_oblig": "40817810701007029486",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0438\u0442\u043d\u0438\u043a\u043e\u0432 \u041c\u0430\u043a\u0441\u0438\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-06 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1251,
+    "business_n": "150040239622",
+    "business_n_monetary_oblig": "9022\/16-287\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u044f\u0435\u0432 \u0418\u043b\u043b\u0430\u0440\u0438\u043e\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-09 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "45000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 419,
+    "business_n": "100005129960",
+    "business_n_monetary_oblig": "7221\/16-14\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 \u041d\u0430\u0437\u0430\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-26 00:00:00",
+    "credit_amount": 95000,
+    "srochssudzd": "81705.56",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 794,
+    "business_n": "150040234407",
+    "business_n_monetary_oblig": "8765\/16-199\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0428\u0438\u043b\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-18 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "43394.74",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1176,
+    "business_n": "100005133615",
+    "business_n_monetary_oblig": "40817810801007036450",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u043b\u0438\u043d\u043e\u0432 \u0421\u043f\u0430\u0440\u0442\u0430\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-13 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 667,
+    "business_n": "150040226856",
+    "business_n_monetary_oblig": "8353\/16-128\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0420\u044f\u0431\u043e\u0432 \u0422\u0438\u043c\u043e\u0444\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-07-15 00:00:00",
+    "credit_amount": 145000,
+    "srochssudzd": "142391.44",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 839,
+    "business_n": "150040236288",
+    "business_n_monetary_oblig": "8798\/16-228\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0425\u0430\u0440\u0438\u0442\u043e\u043d\u043e\u0432 \u042f\u043a\u043e\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-26 00:00:00",
+    "credit_amount": 147000,
+    "srochssudzd": "147000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 890,
+    "business_n": "100005076859",
+    "business_n_monetary_oblig": "40817810601007024303",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u043e\u0440\u043e\u043d\u043e\u0432 \u0413\u0435\u0440\u0430\u0441\u0438\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1084,
+    "business_n": "100005118568",
+    "business_n_monetary_oblig": "40817810501007032835",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u0440\u043d\u0438\u043b\u043e\u0432 \u041a\u0443\u0437\u044c\u043c\u0430 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-03-30 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 445,
+    "business_n": "150040214118",
+    "business_n_monetary_oblig": "24428\/16-51\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u0442\u043e\u0432 \u041c\u0438\u043b\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-24 00:00:00",
+    "credit_amount": 100000,
+    "srochssudzd": "89784.69",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 841,
+    "business_n": "150040236353",
+    "business_n_monetary_oblig": "40817810601007024497",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432 \u0424\u0451\u0434\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-26 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 801,
+    "business_n": "150040235011",
+    "business_n_monetary_oblig": "8797\/16-206\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0410\u043d\u0438\u0441\u0438\u043c\u043e\u0432 \u0413\u0435\u0440\u043c\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-19 00:00:00",
+    "credit_amount": 800000,
+    "srochssudzd": "800000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 903,
+    "business_n": "100005076873",
+    "business_n_monetary_oblig": "40817810801007040996",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0410\u043a\u0441\u0451\u043d\u043e\u0432 \u041b\u0435\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1127,
+    "business_n": "100005127610",
+    "business_n_monetary_oblig": "40817810201007039277",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0424\u0430\u0434\u0435\u0435\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-04-18 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 901,
+    "business_n": "100005076871",
+    "business_n_monetary_oblig": "40817810501007040186",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u0440\u044e\u043a\u043e\u0432 \u042f\u0440\u043e\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 318,
+    "business_n": "150025140093",
+    "business_n_monetary_oblig": "89200\/14-74\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432 \u0424\u0435\u043b\u0438\u043a\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-10-17 00:00:00",
+    "credit_amount": 300000,
+    "srochssudzd": "217437.09",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 793,
+    "business_n": "150040234336",
+    "business_n_monetary_oblig": "8768\/16-198\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0428\u0443\u0431\u0438\u043d \u041c\u0430\u0440\u0430\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-18 00:00:00",
+    "credit_amount": 138000,
+    "srochssudzd": "138000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 258,
+    "business_n": "150025123413",
+    "business_n_monetary_oblig": "30645\/14-36\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0428\u0438\u0440\u044f\u0435\u0432 \u041c\u0430\u0442\u0432\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-06-24 00:00:00",
+    "credit_amount": 100000,
+    "srochssudzd": "12428.32",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 869,
+    "business_n": "150040237253",
+    "business_n_monetary_oblig": "37059\/16-242\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u0437\u043b\u043e\u0432 \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-31 00:00:00",
+    "credit_amount": 150000,
+    "srochssudzd": "150000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1236,
+    "business_n": "150040239244",
+    "business_n_monetary_oblig": "40817810201007037017",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0422\u0438\u0442\u043e\u0432 \u042e\u043b\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-08 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "29.28",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 556,
+    "business_n": "150040218564",
+    "business_n_monetary_oblig": "29541\/16-86\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0438\u0440\u044e\u043a\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-15 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 559,
+    "business_n": "150040218633",
+    "business_n_monetary_oblig": "40817810901007044407",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u0410\u043d\u0442\u043e\u043d\u0438\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-15 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 360,
+    "business_n": "150030201945",
+    "business_n_monetary_oblig": "24392\/15-14\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0417\u044b\u043a\u043e\u0432 \u0411\u043e\u0440\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2015-05-26 00:00:00",
+    "credit_amount": 400000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1020,
+    "business_n": "100005096996",
+    "business_n_monetary_oblig": "40817810901007019500",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432 \u0412\u0435\u043d\u0438\u0430\u043c\u0438\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-02-17 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1055,
+    "business_n": "100005109766",
+    "business_n_monetary_oblig": "40817810901007036295",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0443\u0445\u0430\u043d\u043e\u0432 \u0414\u0435\u043d\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-03-16 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1164,
+    "business_n": "100005132546",
+    "business_n_monetary_oblig": "40817810401007029223",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u043e\u0437\u0451\u0440\u043e\u0432 \u0414\u043c\u0438\u0442\u0440\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-10 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 795,
+    "business_n": "150040234422",
+    "business_n_monetary_oblig": "8778\/16-200\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u0443\u0440\u0430\u0432\u044c\u0451\u0432 \u0422\u0438\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-18 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "41000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 123,
+    "business_n": "150020052184",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810601007029492",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u0435\u043b\u043e\u0437\u0451\u0440\u043e\u0432 \u0410\u043f\u043e\u043b\u043b\u043e\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-02-20 00:00:00",
+    "credit_amount": 13700,
+    "srochssudzd": "12853.38",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 602,
+    "business_n": "150040221923",
+    "business_n_monetary_oblig": "40817810801007035671",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0414\u043e\u0440\u043e\u0444\u0435\u0435\u0432 \u041f\u0440\u043e\u0445\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-27 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 778,
+    "business_n": "150040233181",
+    "business_n_monetary_oblig": "8716\/16-182\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041d\u0438\u043a\u0438\u0442\u0438\u043d \u0421\u0442\u0435\u0444\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-15 00:00:00",
+    "credit_amount": 139000,
+    "srochssudzd": "139000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 328,
+    "business_n": "10034945631",
+    "business_n_monetary_oblig": "250-02-04998\/\u0424\u0412\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0422\u0438\u0442\u043e\u0432 \u0410\u043d\u0434\u0440\u0435\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2008-12-29 00:00:00",
+    "credit_amount": 100000,
+    "srochssudzd": null,
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438",
+      "VIP"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1165,
+    "business_n": "100005132547",
+    "business_n_monetary_oblig": "40817810901007036295",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0443\u0445\u0430\u043d\u043e\u0432 \u0414\u0435\u043d\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-10 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1240,
+    "business_n": "150040239458",
+    "business_n_monetary_oblig": "40817810601007038933",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u043c\u0430\u0440\u043e\u0432 \u0415\u0432\u0433\u0435\u043d\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-09 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 61,
+    "business_n": "10019895445",
+    "business_n_monetary_oblig": "\u0434\/\u0441 1 \u043a \u0434\u043e\u0433\u0421\u041a\u0421 5374\/",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0417\u0438\u043c\u0438\u043d \u0411\u043e\u0440\u0438\u0441 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2007-03-12 00:00:00",
+    "credit_amount": 21000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 924,
+    "business_n": "100005076895",
+    "business_n_monetary_oblig": "40817810201007037923",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041b\u0430\u0440\u0438\u043e\u043d\u043e\u0432 \u0414\u043e\u043d\u0430\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 431,
+    "business_n": "100005132711",
+    "business_n_monetary_oblig": "\/16-22\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0435\u043c\u0451\u043d\u043e\u0432 \u042e\u0440\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-11 00:00:00",
+    "credit_amount": 95000,
+    "srochssudzd": "89505.76",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1163,
+    "business_n": "100005132545",
+    "business_n_monetary_oblig": "40817810401007042475",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u043e\u0440\u043e\u043d\u043e\u0432 \u0420\u0430\u0434\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-10 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 161,
+    "business_n": "390005000122",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810702007023504",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-07-09 00:00:00",
+    "credit_amount": 14000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1151,
+    "business_n": "100005131865",
+    "business_n_monetary_oblig": "40817810702007018920",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0410\u043d\u0438\u0441\u0438\u043c\u043e\u0432 \u041c\u0430\u0440\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-04 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1304,
+    "business_n": "150040241596",
+    "business_n_monetary_oblig": "9198\/16-331\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041f\u0430\u0445\u043e\u043c\u043e\u0432 \u042d\u0440\u0438\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-09-16 00:00:00",
+    "credit_amount": 185000,
+    "srochssudzd": "185000",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 343,
+    "business_n": "150030182491",
+    "business_n_monetary_oblig": "09904\/15-03\/\u0424\u041a\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u043e\u0440\u043e\u043a\u0438\u043d \u0410\u0431\u0440\u0430\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2015-03-19 00:00:00",
+    "credit_amount": 250000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 688,
+    "business_n": "150040228477",
+    "business_n_monetary_oblig": "40817810801007034368",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u042f\u043a\u0443\u0448\u0435\u0432 \u0421\u043f\u0430\u0440\u0442\u0430\u043a ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-07-25 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 230,
+    "business_n": "150025110519",
+    "business_n_monetary_oblig": "25697\/14-30\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0414\u0435\u043d\u0438\u0441\u043e\u0432 \u0422\u0438\u0442 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-04-30 00:00:00",
+    "credit_amount": 250000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 816,
+    "business_n": "150040235435",
+    "business_n_monetary_oblig": "40817810201007044615",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0411\u044b\u043a\u043e\u0432 \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-23 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 836,
+    "business_n": "150040236065",
+    "business_n_monetary_oblig": "40817810001007036467",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u0440\u043e\u043b\u0451\u0432 \u041d\u0430\u0437\u0430\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-08-25 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 189,
+    "business_n": "390005030326",
+    "business_n_monetary_oblig": "19520\/13-5\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0414\u0440\u043e\u0437\u0434\u043e\u0432 \u041f\u0440\u043e\u0445\u043e\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2013-11-15 00:00:00",
+    "credit_amount": 100000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 288,
+    "business_n": "290000003719",
+    "business_n_monetary_oblig": "\u0421\u041a\u0421 \u2116 40817810001007031226",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0421\u0438\u0434\u043e\u0440\u043e\u0432 \u041b\u0435\u043e\u043d\u0438\u0434 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2014-08-21 00:00:00",
+    "credit_amount": 34000,
+    "srochssudzd": "18709.65",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 678,
+    "business_n": "150040227898",
+    "business_n_monetary_oblig": "40817810201007034104",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041c\u043e\u0438\u0441\u0435\u0435\u0432 \u0421\u0442\u0435\u043f\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-07-21 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "53.68",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 435,
+    "business_n": "100005133973",
+    "business_n_monetary_oblig": "39399\/16-41\/\u0424\u041f\u041a",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0422\u0440\u043e\u0444\u0438\u043c\u043e\u0432 \u0420\u043e\u043c\u0430\u043d ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-05-13 00:00:00",
+    "credit_amount": 45000,
+    "srochssudzd": "18562.09",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 911,
+    "business_n": "100005076881",
+    "business_n_monetary_oblig": "40817810501007029505",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u0440\u044e\u043a\u043e\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-01-11 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 54,
+    "business_n": "10019895424",
+    "business_n_monetary_oblig": "\u0414\/\u0441 1 \u043a \u0434\u043e\u0433\u0421\u041a\u0421 4997",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0423\u0441\u0442\u0438\u043d\u043e\u0432 \u0412\u0438\u043a\u0435\u043d\u0442\u0438\u0439 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2006-05-10 00:00:00",
+    "credit_amount": 100000,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438",
+      "VIP"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 1060,
+    "business_n": "100005112244",
+    "business_n_monetary_oblig": "40817810301007029679",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432 \u041f\u0451\u0442\u0440 ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-03-21 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": "0",
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  },
+  {
+    "id": 534,
+    "business_n": "150040217611",
+    "business_n_monetary_oblig": "40817810902007026220",
+    "overdue_debt": 0,
+    "overdue_debt_date": null,
+    "fio": "\u041a\u043e\u043b\u0435\u0441\u043d\u0438\u043a\u043e\u0432 \u0412\u0430\u0434\u0438\u043c ",
+    "filial_name": "\u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043e\u0444\u0438\u0441",
+    "priority_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439",
+    "date_issue_agreement": "2016-06-09 00:00:00",
+    "credit_amount": 0,
+    "srochssudzd": "0",
+    "prsrssudzd": null,
+    "status_types": [
+      "\u041d\u0435\u0442 \u043f\u0440\u043e\u0441\u0440\u043e\u0447\u043a\u0438"
+    ],
+    "applied_bp": []
+  }
+]
